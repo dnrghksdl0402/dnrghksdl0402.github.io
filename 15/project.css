@@ -3,8 +3,8 @@
 [class*="col-"] {float:left; padding:10px;}
 .header, .footer{background-color:beige ; color:blue; padding:10px;}
 .menu ul, .banner ul{list-style-type:none;}
-.menu li { background-color:gray; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
-.menu li:hover{background-color:lightgray;}
+.menu li { background-color:lightgray; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
+.menu li:hover{background-color:gray;}
 .banner li {border:2px solid black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray;}
 .banner li img {width:30%; vertical-align:middle;}
 table, th, td{border:1px solid black;}
